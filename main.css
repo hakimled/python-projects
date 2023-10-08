@@ -8,3 +8,9 @@ h1{
     font-size: 35px;
     text-align: center;
 }
+h2{
+    text-align: center;
+    color: #444;
+    text-transform: capitalize;
+}
+
