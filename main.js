@@ -1,1 +1,1 @@
-document.body.style.backgroundColor = 'yellow';
+document.body.style.backgroundColor = '#F0F2F5';
