@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+}
+body{
+
+}
+h1{
+    text-align: center;
+    background-color: lightblue;
+    height: 40px;
+    padding: 10px;
+    text-transform: capitalize;
+    
+}
+h2{
+    text-align: center;
+    text-transform: capitalize;
+}
